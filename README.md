@@ -1,3 +1,4 @@
-# Aqui estou estudando um pouco mais sobre GIT/GITHUB #
+# Estudando um pouco mais sobre GIT/GITHUB #
 
-## E também usando a ferramenta TYPORA para editar arquivos do tipo markdown ##
+## Usando a ferramenta TYPORA para editar arquivos do tipo markdown ##
+
