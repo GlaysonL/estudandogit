@@ -62,6 +62,12 @@ Obs: Existem 2 maneiras, a primeira você troca o nome da branch em que está o 
 
 #### git stash list
 
+### Para abrir a caixa, retornando com as tarefas que estava trabalhando, basta usar o comando POP, para "estourar" a caixa e dropar os "commits" feito pro stash
+
+### Sintaxe
+
+#### git stash pop
+
 
 
 
